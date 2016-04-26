@@ -43,3 +43,10 @@ command-line-arguments.test
 !/circle.yml
 !/.travis.yml
 !/.promu.yml
+
+# Bazel
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-prometheus
+bazel-testlogs
